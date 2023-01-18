@@ -5,3 +5,8 @@ Para inscribirte en esta organización utiliza el siguiente enlace
 
 https://classroom.github.com/a/zaG3SMGO
 
+
+Una vez inscrito completa el formulario:
+
+https://classroom.github.com/a/mQGESkxY
+
